@@ -1,0 +1,8 @@
+Facial Recognition Bot: In studies by MIT and the ACLU, facial recognition systems from major tech firms were found to misidentify Black and darker-skinned individuals at much higher rates than white individuals.
+In one case, an algorithm had error rates of less than 1% for white men, but over 35% for Black women.
+This had real consequences: law enforcement agencies used these tools, leading to wrongful detentions based on false matches.
+A way to solve this would be to publish fairness evaluations or collect more data from other groups of people to ensure diverse and representative facial images.
+
+Loan Approval Bot: Several banks and fintech companies began using machine learning to approve or deny personal loans. But studies revealed that Black and Latino applicants were disproportionately rejected, even when they had similar financial profiles as white applicants.
+The problem was that the model wasn’t just predicting creditworthiness — it was replicating decades of systemic bias in banking that it had learned from the bank’s historical data.
+A solution is models are now designed to ignore variables tied too closely to race or geography and showcase why they were approved or denied.
